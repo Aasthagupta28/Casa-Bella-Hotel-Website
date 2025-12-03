@@ -17,21 +17,25 @@ const services: Service[] = [
     id: 1,
     name: 'Spa & Wellness',
     description: 'Indulge in rejuvenating spa treatments and wellness programs designed to refresh your mind, body, and soul. Experience traditional Ayurvedic therapies combined with modern techniques.',
+    icon: '💆',
   },
   {
     id: 2,
     name: 'Fitness Center',
     description: 'Stay active during your stay with our state-of-the-art fitness center. Equipped with modern equipment and professional trainers to help you maintain your fitness routine.',
+    icon: '🏋️',
   },
   {
     id: 3,
     name: 'Business Facilities',
     description: 'Perfect for corporate travelers, our business facilities include modern conference rooms, meeting spaces, and all the amenities you need for successful business events.',
+    icon: '💼',
   },
   {
     id: 4,
     name: 'Concierge Services',
     description: 'Our dedicated concierge team is available 24/7 to assist with travel arrangements, restaurant reservations, local recommendations, and personalized services.',
+    icon: '🎩',
   },
 ];
 
